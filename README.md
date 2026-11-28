@@ -82,4 +82,8 @@ The repository contains the C++ source files, header files, and the complete pro
 
 ## ▶️ How to Run
 
-1. Download
+1. Download from below...
+[Download EnerGrid.zip](https://github.com/japhetzion/Energrid/raw/refs/heads/main/Energrid.zip)
+2. Open the extracted project folder.
+3. Open the project in Visual Studio or your preferred C++ IDE.
+4. Compile and run the source code.
